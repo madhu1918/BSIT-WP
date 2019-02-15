@@ -1,0 +1,13 @@
+[
+	{
+		"activityType":"assignment",
+		"title":"Assignment-1",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":"<b>Part 4 - Show Orders</b><br><br>Show the list of orders placed by the user. To see their orders they have to provide their name and phone number that was provided at the time of placing the order. So, provide a form with Name, Phone and View Orders button. On clicking the button, show the list of orders along with the items on the same page.",
+				"points":"20"
+			}
+		]
+	}
+]

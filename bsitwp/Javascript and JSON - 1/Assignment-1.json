@@ -1,0 +1,13 @@
+[
+	{
+		"activityType":"assignment",
+		"title":"Assignment-1",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":"Create the data/object model and encode it as JSON, questions array in which each questions object contains a question id object, question object, hint object, options as array object, correct value object and an incorrect object.",
+				"points":"10"
+			}
+		]
+	}
+]

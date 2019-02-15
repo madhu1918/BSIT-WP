@@ -1,0 +1,16 @@
+[
+	{
+		"activityType":"video",
+		"title":"Video on HTML5 and CSS",
+		"videoURL":"/Video on HTML5 and CSS.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions":[
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on HTML5 and CSS"
+			}
+		]
+	}
+]

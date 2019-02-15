@@ -1,0 +1,20 @@
+[
+	{
+		"activityType":"assignment",
+		"title":"Assignment-1",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":[
+					{
+						"text":"By the end of the module you need to create HTML/CSS/Bootstrap version of the quiz Mockup shown below."
+					},
+					{
+						"image":{"imageSRC":"quiz.jpg", "imageName":""}
+					}
+				],
+				"points":"10"
+			}
+		]
+	}
+]

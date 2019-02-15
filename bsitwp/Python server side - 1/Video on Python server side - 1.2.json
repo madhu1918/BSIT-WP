@@ -1,0 +1,16 @@
+[
+	{
+		"activityType":"video",
+		"title":"Video on Python server side - 1.2",
+		"videoURL":"/Video on Python server side - 1.2.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions":[
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Python server side - 1.2"
+			}
+		]
+	}
+]

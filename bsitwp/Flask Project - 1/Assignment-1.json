@@ -1,0 +1,13 @@
+[
+	{
+		"activityType":"assignment",
+		"title":"Assignment-1",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":"<b>Part 1 - Books Catalog</b><br><br>From the Unit - 16 extension, Develop a flask-based web application to display the book's catalog as shown in the mock-up screen. A web request with the URI /show_books should open the book's catalog. Books data should be from the JSON file placed on the web server as a static file. JavaScript on the browser makes an AJAX call to load the JSON file.",
+				"points":"20"
+			}
+		]
+	}
+]

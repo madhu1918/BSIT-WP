@@ -1,0 +1,13 @@
+[
+	{
+		"activityType":"assignment",
+		"title":"Assignment-1",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":"<b>Part 2 - Add books to cart</b><br><br>The books for which price information is available should have a Add to Cart button. When a user clicks on add to cart, add the book to the session. Show the status of the cart on the top of the page with the number of products in the page. For example: Cart status should say “2 books in the cart” on clicking Add to Cart for two books. If a user clicks on Add to Cart for the second time then it should update the cart with 2 copies of the same book. A user cannot order more than 3 copies of the same book. Add to cart for that book should be disabled after adding the 3rd copy.",
+				"points":"20"
+			}
+		]
+	}
+]

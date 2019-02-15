@@ -1,0 +1,13 @@
+[
+	{
+		"activityType":"assignment",
+		"title":"Assignment-1",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":"Create your personal home page.(HTML5 with CSS)",
+				"points":"10"
+			}
+		]
+	}
+]

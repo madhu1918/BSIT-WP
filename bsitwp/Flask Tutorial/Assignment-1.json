@@ -1,0 +1,13 @@
+[
+	{
+		"activityType":"assignment",
+		"title":"Assignment-1",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":"<b>Books Shopping Cart Project</b><br>In this project the client wants your team (of 2 members) to develop a shopping cart website to sell books online. There are 4 parts to the project and for each part the client needs a quick and dirty implementation of the features using a web framework.<br><br>The details of this project can be seen in this <a href=\"https://docs.google.com/document/d/1dffPBBWZmN68tTTOayln5twvYFzzxLR7EFdk6QBzNco/edit\">link</a>",
+				"points":"20"
+			}
+		]
+	}
+]

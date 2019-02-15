@@ -1,0 +1,217 @@
+{
+	"title" : "Web Programming",
+	"overview":["A large part of the Internet users engages with interactive data-driven web applications such as Facebook, Amazon, Gmail, etc. In this course, you will learn the skills required by a full stack developer to create such web applications. A series of tasks will prepare you to iteratively code to produce a \"pixel perfect\" interactive, responsive data-driven web application. There are 3 parts to the course. Front-end, Database and putting it all together as a website.","Front-end of a website is the user experience and the user interfaces that end users engage with. HTML5, CSS, and JavaScript are the enabling technologies for the development of web front-end for applications. Users have several device options to use your website. An important aspect of web front end is the responsive design. Responsive design ensures that your user interfaces adapt to different screen sizes and resolutions. A popular front-end web framework called Bootstrap is introduced in the course. Bootstrap simplifies the development of responsive websites. You will learn all of these front-end technologies by doing multiple tasks in the first week of the course.","Dynamic websites are data-driven. Such websites rely on a database to store all the data. The data associated with the web application is typically saved to a database. Data is retrieved when it has to be rendered on the web page. You will learn to write python code to create, retrieve, update and delete (CRUD) the data from the database. You will also learn to use Object Relational Mapping tools to manipulate data as python objects. The front end and database have to be integrated using python code. Python has some built-in libraries to create an interactive database driven website.","Last week is for learning a lightweight web framework called Flask and for iteratively working on a project.  Web frameworks help developers quickly write code and iteratively complete it. In this week, you will work on a new requirement given by a client. A demo of the client project is given at the end of the course."],
+	"learningObjectives":["Describe the web application architecture","Create interactive and responsive websites<ul><li>Using HTML5, CSS and JavaScript</li><li>Using front-end framework Bootstrap</li></ul>","Write python code to extract data from databases","Use ORM tools to manipulate data as python objects","Create a web application using the built-in python libraries","Use a framework, Flask, to create web applications","Iteratively write code to develop web applications"],
+	"units" :
+	[
+		{
+			"title":"Introduction to HTML5",
+			"overview":["HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and current major version of the HTML standard.HTML5 includes detailed processing models to encourage more interoperable implementations. It extends, improves and rationalizes the markup available for documents, and introduces markup and application programming interfaces (APIs) for complex web applications."],
+			"learningObjectives":["Importance of HTML5","Create HTML Programs.","Usage of various tags.","Learn to use HTML."],
+			"activities":
+			[
+				"Web Architecture",
+				"Video on HTML",
+				"Assignment-1"
+			]
+		},
+		{
+			"title" : "HTML5",
+			"overview":["HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and current major version of the HTML standard.HTML5 includes detailed processing models to encourage more interoperable implementations. It extends, improves and rationalizes the markup available for documents, and introduces markup and application programming interfaces (APIs) for complex web applications."],
+			"learningObjectives":["Importance of HTML5","Create HTML Programs.","Usage of various tags.","Learn to use HTML."],
+			"activities":
+			[
+				"Video on HTML",
+				"Assignment-1"
+			]
+		},
+		
+		{
+			"title" : "HTML5 and CSS",
+			"overview":["Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript"],
+			"learningObjectives":["Importance of CSS","Create and use CSS.","Usage of different types of CSS."],
+			"activities":
+			[
+				"Video on HTML5 and CSS",
+				"Assignment-1"
+			]
+		},
+		{
+			"title" : "HTML5, CSS and Bootstrap - 1",
+			"overview":["Bootstrap is a free and open-source front-end library for designing websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. Unlike many web frameworks, it concerns itself with front-end development only."],
+			"learningObjectives":["Importance of Bootstrap","Usage of different types of CSS.","Create HTML pages as pixel perfect."],
+			"activities":
+			[
+				"Video on HTML, CSS and Bootstrap-1",
+				"Assignment-1"
+			]
+		},
+		{
+			"title" : "HTML5, CSS and Bootstrap - 2",
+			"overview":["Bootstrap is a free and open-source front-end library for designing websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. Unlike many web frameworks, it concerns itself with front-end development only."],
+			"learningObjectives":["Importance of Bootstrap","Usage of different types of CSS.","Create HTML pages as pixel perfect."],
+			"activities":
+			[
+				"Video on HTML, CSS and Bootstrap-2",
+				"Assignment-1"
+			]
+		},
+		{
+			"title" : "Javascript Syntax-1",
+			"overview":["JavaScript, often abbreviated as JS, is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm.","Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web. JavaScript enables interactive web pages and thus is an essential part of web applications. The vast majority of websites use it, and all major web browsers have a dedicated JavaScript engine to execute it.","Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web. JavaScript enables interactive web pages and this is an essential part of web applications. The vast majority of websites use it, and all major web browsers have a dedicated JavaScript engine to execute it."],
+			"learningObjectives":["Importance of Javascript","Learning to use Javascript","Syntax of Javascript"],
+			"activities":
+			[
+				"Video on Javascript Syntax-1.1",
+				"Video on Javascript Syntax-1.2",
+				"Video on Javascript Syntax-1.3",
+				"Assignment-1",
+				"Assignment-2",
+				"Assignment-3"
+			]
+		},
+		{
+			"title" : "Javascript Syntax-2" ,
+			"overview":["JavaScript, often abbreviated as JS, is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm.","Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web. JavaScript enables interactive web pages and thus is an essential part of web applications. The vast majority of websites use it, and all major web browsers have a dedicated JavaScript engine to execute it.","Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web. JavaScript enables interactive web pages and this is an essential part of web applications. The vast majority of websites use it, and all major web browsers have a dedicated JavaScript engine to execute it."],
+			"learningObjectives":["Importance of Javascript","Learning to use Javascript","Syntax of Javascript"],
+			"activities":
+			[
+				"Video on Javascript Syntax-2.1",
+				"Video on Javascript Syntax-2.2",
+				"Assignment-1"
+			]
+		},
+		{
+			"title" : "Javascript and JSON - 1",
+			"overview":["In computing, JavaScript Object Notation or JSON is an open-standard file format that uses human-readable text to transmit data objects consisting of attribute-value pairs and array data types (or any other serializable value). It is a very common data format used for asynchronous browser-server communication, including as a replacement for XML in some AJAX-style systems.","JSON is a language-independent data format. It was derived from JavaScript, but as of 2017, many programming languages include code to generate and parse JSON-format data. The official Internet media type for JSON is application/json. JSON file names use the extension .json."],
+			"learningObjectives":["Importance of JSON","Learning to use JSON Object"],
+			"activities":
+			[
+				"Video on Javascript and JSON-1",
+				"Assignment-1"
+			]
+		},
+		{
+			"title" : "Javascript and JSON - 2",
+			"overview":["In computing, JavaScript Object Notation or JSON is an open-standard file format that uses human-readable text to transmit data objects consisting of attribute-value pairs and array data types (or any other serializable value). It is a very common data format used for asynchronous browser-server communication, including as a replacement for XML in some AJAX-style systems.","JSON is a language-independent data format. It was derived from JavaScript, but as of 2017, many programming languages include code to generate and parse JSON-format data. The official Internet media type for JSON is application/json. JSON file names use the extension .json."],
+			"learningObjectives":["Importance of JSON","Learning to use JSON Object"],
+			"activities":
+			[
+				"Video on Javascript and JSON-2",
+				"Assignment-1",
+				"Assignment-2",
+				"Assignment-3"
+			]
+		},
+		{
+			"title" : "Javascript and JSON - 3",
+			"overview":["In computing, JavaScript Object Notation or JSON is an open-standard file format that uses human-readable text to transmit data objects consisting of attribute-value pairs and array data types (or any other serializable value). It is a very common data format used for asynchronous browser-server communication, including as a replacement for XML in some AJAX-style systems.","JSON is a language-independent data format. It was derived from JavaScript, but as of 2017, many programming languages include code to generate and parse JSON-format data. The official Internet media type for JSON is application/json. JSON file names use the extension .json."],
+			"learningObjectives":["Importance of JSON","Learning to use JSON Object"],
+			"activities":
+			[
+				"Video on Javascript and JSON-3",
+				"Assignment-1"
+			]
+		},
+		{
+			"title" : "CRUD Operations + ORM-1" ,
+			"overview":["<b>Object-relational mapping (ORM, O/RM, and O/R mapping tool)</b> in computer science is a programming technique for converting data between incompatible type systems using object-oriented programming languages. This creates, in effect, a \"virtual object database\" that can be used from within the programming language. There are both free and commercial packages available that perform object-relational mapping, although some programmers opt to construct their own ORM tools.","In object-oriented programming, data-management tasks act on object-oriented (OO) objects that are almost always non-scalar values."],
+			"learningObjectives":["Importance of ORM","Learning to use ORM tool.","Using with CRUD operations."],
+			"activities":
+			[
+				
+			]
+		},
+		{
+			"title" : "CRUD Operations + ORM-2" ,
+			"overview":["<b>Object-relational mapping (ORM, O/RM, and O/R mapping tool)</b> in computer science is a programming technique for converting data between incompatible type systems using object-oriented programming languages. This creates, in effect, a \"virtual object database\" that can be used from within the programming language. There are both free and commercial packages available that perform object-relational mapping, although some programmers opt to construct their own ORM tools.","In object-oriented programming, data-management tasks act on object-oriented (OO) objects that are almost always non-scalar values."],
+			"learningObjectives":["Importance of ORM","Learning to use ORM tool.","Using with CRUD operations."],
+			"activities":
+			[
+				
+			]
+		},
+		{
+			"title" : "Python server side - 1" ,
+			"overview":["Server-side scripting is a technique used in web development which involves employing scripts on a web server which produce a response customized for each user's (client's) request to the website. The alternative is for the web server itself to deliver a static web page. Scripts can be written in any of a number of server-side scripting languages that are available. Server-side scripting is distinguished from client-side scripting where embedded scripts, such as JavaScript, are run client-side in a web browser, but both techniques are often used together."],
+			"learningObjectives":["Importance of post and get requests.","Use of post and get requests.","Handle get, post requests"],
+			"activities":
+			[
+				"Video on Python server side - 1.1",
+				"Video on Python server side - 1.2",
+				"Assignment-1"
+			]
+		},
+		{
+			"title" : "Python server side - 2" ,
+			"overview":["Server-side scripting is a technique used in web development which involves employing scripts on a web server which produce a response customized for each user's (client's) request to the website. The alternative is for the web server itself to deliver a static web page. Scripts can be written in any of a number of server-side scripting languages that are available. Server-side scripting is distinguished from client-side scripting where embedded scripts, such as JavaScript, are run client-side in a web browser, but both techniques are often used together."],
+			"learningObjectives":["Importance of post and get requests.","Use of post and get requests.","Handle get, post requests"],
+			"activities":
+			[
+				"Video on Python server side - 2",
+				"Assignment-1"
+			]
+		},
+		{
+			"title" : "Python server side - 3" ,
+			"overview":["Server-side scripting is a technique used in web development which involves employing scripts on a web server which produce a response customized for each user's (client's) request to the website. The alternative is for the web server itself to deliver a static web page. Scripts can be written in any of a number of server-side scripting languages that are available. Server-side scripting is distinguished from client-side scripting where embedded scripts, such as JavaScript, are run client-side in a web browser, but both techniques are often used together."],
+			"learningObjectives":["Importance of post and get requests.","Use of post and get requests.","Handle get, post requests"],
+			"activities":
+			[
+				"Video on Python server side - 3",
+				"Assignment-1",
+				"Assignment-2"
+			]
+		},
+		{
+			"title" : "Flask Tutorial" ,
+			"overview":["Flask is a micro web framework written in Python and based on the Werkzeug toolkit and Jinja2 template engine. Applications that use the Flask framework include Pinterest, LinkedIn, and the community web page for Flask itself. Flask is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions."],
+			"learningObjectives":["Using flask as web framework","Learning flask features.","Integrated support for unit testing"],
+			"activities":
+			[
+				"Video on Flask Tutorial",
+				"Assignment-1"
+			]
+		},
+		{
+			"title" : "Flask Project - 1" ,
+			"overview":["Flask is a micro web framework written in Python and based on the Werkzeug toolkit and Jinja2 template engine. Applications that use the Flask framework include Pinterest, LinkedIn, and the community web page for Flask itself. Flask is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions."],
+			"learningObjectives":["Using flask as web framework","Learning flask features.","Integrated support for unit testing"],
+			"activities":
+			[
+				"Video on Flask Project - 1",
+				"Assignment-1"
+			]
+		},
+		{
+			"title" : "Flask Project - 2",
+			"overview":["Flask is a micro web framework written in Python and based on the Werkzeug toolkit and Jinja2 template engine. Applications that use the Flask framework include Pinterest, LinkedIn, and the community web page for Flask itself. Flask is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions."],
+			"learningObjectives":["Using flask as web framework","Learning flask features.","Integrated support for unit testing"],
+			"activities":
+			[
+				"Video on Flask Project - 2",
+				"Assignment-1"
+			]
+		},
+		{
+			"title":"Flask Project - 3" ,
+			"overview":["Flask is a micro web framework written in Python and based on the Werkzeug toolkit and Jinja2 template engine. Applications that use the Flask framework include Pinterest, LinkedIn, and the community web page for Flask itself. Flask is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions."],
+			"learningObjectives":["Using flask as web framework","Learning flask features.","Integrated support for unit testing"],
+			"activities":
+			[
+				"Video on Flask Project - 3",
+				"Assignment-1"
+			]
+		},
+		{
+			"title" : "Flask Project - 4" ,
+			"overview":["Flask is a micro web framework written in Python and based on the Werkzeug toolkit and Jinja2 template engine. Applications that use the Flask framework include Pinterest, LinkedIn, and the community web page for Flask itself. Flask is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions."],
+			"learningObjectives":["Using flask as web framework","Learning flask features.","Integrated support for unit testing"],
+			"activities":
+			[
+				"Video on Flask Project - 4",
+				"Assignment-1"
+			]
+		}
+	]
+}

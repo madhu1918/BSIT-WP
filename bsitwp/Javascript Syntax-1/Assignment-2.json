@@ -1,0 +1,13 @@
+[
+	{
+		"activityType":"assignment",
+		"title":"Assignment-2",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":"Define a function isEven. The function should accept a single parameter (a positive, whole number) and return a Boolean.",
+				"points":"10"
+			}
+		]
+	}
+]

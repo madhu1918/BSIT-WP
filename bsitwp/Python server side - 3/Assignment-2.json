@@ -1,0 +1,14 @@
+
+[
+	{
+		"activityType":"assignment",
+		"title":"Assignment-2",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":"Create a new GET request for deleting a registration for a given email address. The format of the request should be “/deleteuser/me@gmail.com”",
+				"points":"20"
+			}
+		]
+	}
+]

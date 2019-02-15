@@ -1,0 +1,16 @@
+[
+	{
+		"activityType":"video",
+		"title":"Video on Flask Tutorial",
+		"videoURL":"/Video on Flask Tutorial.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions":[
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Flask Tutorial"
+			}
+		]
+	}
+]

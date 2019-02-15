@@ -1,0 +1,16 @@
+[
+	{
+		"activityType":"video",
+		"title":"Web Architecture",
+		"videoURL":"/Web Architecture.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions":[
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Web Architecture"
+			}
+		]
+	}
+]

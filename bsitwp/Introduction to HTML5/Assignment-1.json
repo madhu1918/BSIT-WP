@@ -1,0 +1,20 @@
+[
+	{
+		"activityType":"assignment",
+		"title":"Assignment-1",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":[
+					{
+						"text":" Create your personal home page. A personal home page looks similar to the reference shown below. The reference is only a baseline. You are allowed to unleash your creativity and add the lot more to your personal home page."
+					},
+					{
+						"image":{"imageSRC":"personalinfo.jpg", "imageName":""}
+					}
+				],
+				"points":"5"
+			}
+		]
+	}
+]

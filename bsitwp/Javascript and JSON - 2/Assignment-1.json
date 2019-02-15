@@ -1,0 +1,13 @@
+[
+	{
+		"activityType":"assignment",
+		"title":"Assignment-1",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":"Write a JS function render_questions from the earlier created JSON object data.<br><br><ul><li>Take the JSON data model as the argument to the render_questions</li></ul>",
+				"points":"10"
+			}
+		]
+	}
+]

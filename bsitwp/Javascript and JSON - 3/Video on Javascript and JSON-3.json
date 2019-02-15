@@ -1,0 +1,16 @@
+[
+	{
+		"activityType":"video",
+		"title":"Video on Javascript and JSON-3",
+		"videoURL":"/Video on Javascript and JSON-3.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions":[
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Javascript and JSON-3"
+			}
+		]
+	}
+]

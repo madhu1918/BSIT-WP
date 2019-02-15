@@ -1,0 +1,20 @@
+[
+	{
+		"activityType":"assignment",
+		"title":"Assignment-1",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":[
+					{
+						"text":"Update the render_questions JS function and the View to dynamically render the questions from the given JSON data model<ol><li>This requires updating the DOM using the attributes such as innerHTML</li></ol>"
+					},
+					{
+						"image":{"imageSRC":"quizpage.jpg", "imageName":""}
+					}
+				],
+				"points":"10"
+			}
+		]
+	}
+]

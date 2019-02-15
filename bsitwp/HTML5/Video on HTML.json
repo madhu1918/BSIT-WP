@@ -1,0 +1,16 @@
+[
+	{
+		"activityType":"video",
+		"title":"Video on HTML",
+		"videoURL":"/Video on HTML.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions":[
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on HTML"
+			}
+		]
+	}
+]

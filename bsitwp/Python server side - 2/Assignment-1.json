@@ -1,0 +1,13 @@
+[
+	{
+		"activityType":"assignment",
+		"title":"Assignment-1",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":"When the registration form is submitted with the 3 inputs the do_post should collect the values submitted and validate them. It should send a error page if any one of the 3 fields is missing. Otherwise it can send a successfully registered message to the user.",
+				"points":"20"
+			}
+		]
+	}
+]

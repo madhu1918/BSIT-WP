@@ -1,0 +1,13 @@
+[
+	{
+		"activityType":"assignment",
+		"title":"Assignment-1",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":"<b>Part 3 - Checkout and place order</b><br><br>Add a checkout button at the end of the page. On clicking checkout it should display the books in the cart along with the ordered quantities and the amount to be paid. Everyone pays a tax of 10% on the books cost. Below the cart, display a form with Name, Phone and Place Order button. On clicking the Place Order button make a new order entry for the user in the database.",
+				"points":"20"
+			}
+		]
+	}
+]

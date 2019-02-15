@@ -1,0 +1,13 @@
+[
+	{
+		"activityType":"assignment",
+		"title":"Assignment-1",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":"Arrays have a reverse method which changes the array by inverting the order in which its elements appear. For this exercise, write afunction, reverseArray, it takes an array as an argument and produces a new array that has the same elements in the inverse order.",
+				"points":"10"
+			}
+		]
+	}
+]

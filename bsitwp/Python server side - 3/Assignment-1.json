@@ -1,0 +1,13 @@
+[
+	{
+		"activityType":"assignment",
+		"title":"Assignment-1",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":"Integrate POST request handling code with the SQLAlchemy code such that a database entry is created on successful registration.",
+				"points":"10"
+			}
+		]
+	}
+]

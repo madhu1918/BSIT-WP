@@ -1,0 +1,13 @@
+[
+	{
+		"activityType":"assignment",
+		"title":"Assignment-1",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":"Implement the python web server for a registration form. It should handle the get request with the URL /register. /register should show a form with 3 inputs fields. Name, Email and Password.",
+				"points":"10"
+			}
+		]
+	}
+]
