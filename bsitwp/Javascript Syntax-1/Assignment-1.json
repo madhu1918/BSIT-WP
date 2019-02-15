@@ -9,5 +9,27 @@
 				"points":"10"
 			}
 		]
+	},
+	{
+		"activityType":"assignment",
+		"title":"Assignment-2",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":"Define a function isEven. The function should accept a single parameter (a positive, whole number) and return a Boolean.",
+				"points":"10"
+			}
+		]
+	},
+	{
+		"activityType":"assignment",
+		"title":"Assignment-3",
+		"questions":[
+			{
+				"questionType":"filesubmission",
+				"questionText":"Write a JavaScript program to join all elements of the following array into a string.<br><br><b>Input</b> :\"Red,Green,White,Black\"",
+				"points":"10"
+			}
+		]
 	}
 ]
